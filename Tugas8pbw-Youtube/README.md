@@ -82,7 +82,7 @@ Video 16 – Route Resource
 
 Video 17 - Authenticate User
 ![image](https://github.com/user-attachments/assets/2e47cfd2-653c-4cb8-a9e7-fb0634b44157)
-![image](https://github.com/user-attachments/assets/896dec09-9156-415a-b6c0-11d0769307dd)
+![image](https://github.com/user-attachments/assets/a57d7a02-42be-429e-8d91-634edf72e0cf)
 
 
 
