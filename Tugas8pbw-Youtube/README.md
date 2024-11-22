@@ -63,3 +63,27 @@ Video 11 - Validasi Data
 Video 12 – Route Wildcard
  ![image](https://github.com/user-attachments/assets/67929888-e0c4-4a02-b51b-d822d3d1c181)
  ![image](https://github.com/user-attachments/assets/f79c3169-9f35-47ae-8998-9350e31e9e99)
+
+Video 13 - Update dan Refactor
+![image](https://github.com/user-attachments/assets/b73abe08-dee2-4739-9424-4cdd91611f77)
+![image](https://github.com/user-attachments/assets/66fd97ad-def1-42af-9825-d3c070b8103f)
+
+Video 14 – Handle Request
+![image](https://github.com/user-attachments/assets/9ea69908-4769-4c4b-a38e-456599deee63)
+![image](https://github.com/user-attachments/assets/2293c3dc-9bbd-4eff-bbb7-c14a3ff0a4d1)
+
+Video 15 - Delete
+![image](https://github.com/user-attachments/assets/5e9b5fae-4c96-48fb-8fa3-da436c33ed84)
+![image](https://github.com/user-attachments/assets/96f443b1-8fef-461a-883e-be576021a665)
+
+Video 16 – Route Resource
+![image](https://github.com/user-attachments/assets/f391a8c5-b369-49a5-9f2c-c35143dc67ed)
+![image](https://github.com/user-attachments/assets/30ec0f78-df8e-4a2e-a455-aebe8fdd6f9a)
+
+Video 17 - Authenticate User
+![image](https://github.com/user-attachments/assets/2e47cfd2-653c-4cb8-a9e7-fb0634b44157)
+![image](https://github.com/user-attachments/assets/896dec09-9156-415a-b6c0-11d0769307dd)
+
+
+
+
